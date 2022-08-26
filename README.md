@@ -23,3 +23,20 @@
   <samp> I’m a young and desirous life long learner, with good communication and interpersonal relationship skills. I am endowed with high intellectual capacity and I am a team player. My work experience and academic excellence attest to my relevance in the technological industry. 
   </samp>
 </p>
+<hr>
+
+<h2 align="center"> 🔭 Tech Stack </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=013F28&logo=Microsoft excel&logoColor=FFFFFF&label=" />&nbsp;&nbsp;
+</p>
+<hr>
