@@ -20,8 +20,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami?</h2>
 <p align="center">
-  <samp> I’m a young and desirous life long learner, with good communication and interpersonal relationship skills. I am endowed with high intellectual capacity and I am a team player. My work experience and academic excellence attest to my relevance in the technological industry. 
-  </samp>
+  <samp> Data analyst with good communication and interpersonal relationship skills. Endowed with high intellectual capacity and a team player, always keen to invent new ideas that can advance existing technology and eager to learn new technologies and processes.
 </p>
 <hr>
 
