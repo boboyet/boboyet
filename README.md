@@ -20,7 +20,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami?</h2>
 <p align="center">
-  <samp> Data analyst with good communication and interpersonal relationship skills. Endowed with high intellectual capacity and a team player, always keen to invent new ideas that can advance existing technology and eager to learn new technologies and processes.
+  <samp> I am a data analyst and scientist with the capacity to provide insightful data using innovative data-driven techniques. Seeking to use my knowledge of data modelling and visualisation to provide solutions in resolving business issues. Always keen to invent new ideas that can advance existing technology and eager to learn new technologies and processes.
 </p>
 <hr>
 
