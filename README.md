@@ -20,7 +20,9 @@
 
 <h2 align="center"> 👨‍💻 Whoami?</h2>
 <p align="center">
-  <samp> I am a data analyst and scientist with the capacity to provide insightful data using innovative data-driven techniques. Seeking to use my knowledge of data modelling and visualisation to provide solutions in resolving business issues. Always keen to invent new ideas that can advance existing technology and eager to learn new technologies and processes.
+  <samp> I am a skilled QA Engineer and Analyst with experience in developing and implementing quality assurance testing frameworks for the reliability and excellence of software performance.
+
+    My expertise lies in establishing quality checkpoints, crafting test strategies, plans and cases, and developing manual and automated test scripts for various testing types. I also bring a holistic approach to QA by prioritizing not only testing and bug identification but also ensuring quality standards are upheld from product development throughout the software lifecycle.
 </p>
 <hr>
 
